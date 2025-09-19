@@ -1,7 +1,0 @@
-This repository contains a comprehensive Jupyter Notebook demonstrating best practices for cleaning and preprocessing the Airbnb Open Data. The dataset includes detailed listings information such as prices, availability, reviews, host details, and property features.
-
-Key Features:
- - Robust data cleaning techniques including handling missing values, duplicates, and inconsistent data types.
- - Conversion and parsing of complex columns such as price and service fees.
- - Removal of irrelevant columns to streamline analysis.
- - Data transformation steps preparing the dataset for exploratory data analysis (EDA) and machine learning applications.
